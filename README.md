@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of justoverclock/og-meta-tag.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/og-meta-tag) or the [upstream repository](https://github.com/justoverclockl/og-meta-tag).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/justoverclock-og-meta-tag/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/justoverclock-og-meta-tag/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-07-26 | `^1.0` | [Browse](https://github.com/flarchive/justoverclock-og-meta-tag/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/justoverclock-og-meta-tag.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-og-meta-tag.json)
 
